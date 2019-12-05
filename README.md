@@ -9,3 +9,6 @@ balwan z blota
 
 wiecej zmian
 cos cos
+
+problem
+
