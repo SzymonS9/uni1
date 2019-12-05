@@ -7,3 +7,4 @@ minecraft
 tralalalal
 balwan z blota
 
+wiecej zmian
